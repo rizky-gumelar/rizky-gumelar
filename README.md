@@ -12,7 +12,7 @@ I'm a **Computer Science graduate from Universitas Dian Nuswantoro**, passionate
 ### My stats ⭐
 <div align="center">
 <img alt="Rizky's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rizky-gumelar&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizky-gumelar&layout=compact&langs_count=8&exclude_repo=Fall-Detection-Classification,Bengkod-Data-Analyst"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizky-gumelar&layout=compact&langs_count=8&exclude_repo=Fall-Detection-Classification,Bengkod-Data-Analyst&theme=transparent"/>
 </div>
 
 ## 📫 Get in Touch  
