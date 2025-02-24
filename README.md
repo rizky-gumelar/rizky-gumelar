@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizky-gumelar)](https://github.com/rizky-gumelar/github-readme-stats)
+
 <!--
 **rizky-gumelar/rizky-gumelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
